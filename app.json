@@ -1,7 +1,7 @@
 {
-    "name": "whatsapp-bot",
-    "description": "WhatsApp Bot build by nodejs",
-    "repository": "https://github.com/ZetsuBot/HydraBot-",
-    "logo": "https://ibb.co/x2YxJx9",
-    "keywords": ["nodejs", "bot", "whatsapp bot",
+  "name": "HydraBot-",
+  "description": "WhatsApp Bot",
+  "repository": "https://github.com/WolfCodeX29/HydraBot-",
+  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "keywords": ["bot", "whatsapp", "whatsapp-bot"]
 }
